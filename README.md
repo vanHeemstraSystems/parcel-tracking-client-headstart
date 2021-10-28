@@ -7,7 +7,7 @@ Based on "Dockerizing a React App" at https://mherman.org/blog/dockerizing-a-rea
 
 Original source: https://github.com/ardaorkin/rabbitmq-parcel-tracking
 
-This a companion repository of [Parcel Tracking with AMQP - Headstart](https://github.com/vanHeemstraSystems/parcel-tracking-with-amqp-headstart)
+This a companion repository of [Parcel Tracking with AMQP - Headstart](https://github.com/vanHeemstraSystems/parcel-tracking-with-amqp-headstart).
 
 ## 100 - Introduction
 
