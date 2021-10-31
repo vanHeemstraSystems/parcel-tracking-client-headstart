@@ -12,7 +12,7 @@ Skip
 
 ## 300 - Generate a new app
 
-Inside the subdirectory /containers/app/ created a new app called '***socket***':
+Inside the subdirectory /containers/app/ create a new app called '***socket***':
 
 ```
 $ cd containers/app
