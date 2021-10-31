@@ -17,7 +17,7 @@ Inside the subdirectory /containers/app/ created a new app called '***socket***'
 ```
 $ cd containers/app
 $ npm init react-app socket --use-npm
-$ cd webui
+$ cd socket
 ```
 
 You will be prompted as follows:
